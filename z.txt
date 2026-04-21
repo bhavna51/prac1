@@ -1,0 +1,10 @@
+git clone repo link
+readme file chnage,dataset upload
+git add .
+git commit -m "..."
+git branch
+git push origin main
+git checkout -b [new_branch_name]
+git switch main
+git push origin new_branch_name
+
